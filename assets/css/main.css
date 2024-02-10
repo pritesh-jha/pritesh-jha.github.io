@@ -776,7 +776,7 @@ position: relative;
 display: block;
 margin-bottom: 1.5em;
 padding: 10px; /* Adjust this to change the border thickness */
-background: radial-gradient(circle at center, rgb(213, 79, 79), rgb(0, 255, 225)); /* Adjust colors as needed */
+background: radial-gradient(circle at center, rgb(210, 75, 75), rgb(0, 255, 225)); /* Adjust colors as needed */
 border-radius: 50%;
 }
 #main .avatar img {
